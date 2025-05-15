@@ -1,0 +1,20 @@
+{
+  "name": "Poopcoin Token List",
+  "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/poopcoin-assets/main/assets/0x850A09D5E99B2109e5c2cEEa262185B6D5Adb44c/logo.png",
+  "keywords": ["meme", "poop", "fun", "community"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x850A09D5E99B2109e5c2cEEa262185B6D5Adb44c",
+      "symbol": "POOP",
+      "name": "Poopcoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/poopcoin-assets/main/assets/0x850A09D5E99B2109e5c2cEEa262185B6D5Adb44c/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
